@@ -43,3 +43,8 @@ Defines the visual appearance of the chatbot interface.
 Uses a dark color scheme, similar to the ChatGPT interface.
 Styles the chat messages, input elements, buttons, and other components.
 Implements responsive design elements to ensure proper display on different screen sizes.
+
+![Screenshot (26)](https://github.com/user-attachments/assets/e7931b89-7d1c-4d19-920b-d8b100812a7a)
+![Screenshot (27)](https://github.com/user-attachments/assets/1bdb85f2-f2b1-4cf4-9e26-f96f1b84df82)
+
+
