@@ -27,6 +27,7 @@ Imports the marked.js library from a CDN to render Markdown.
 
 **script.js (Frontend Logic):
 **
+
 Handles sending user messages to the Flask backend using fetch().
 Dynamically updates the chat display area (#chat-box) with both user and AI messages.
 Formats the messages within the chat interface.
@@ -37,6 +38,7 @@ Includes error handling for network requests.
 
 **styles.css (Frontend Styling):
 **
+
 Defines the visual appearance of the chatbot interface.
 Uses a dark color scheme, similar to the ChatGPT interface.
 Styles the chat messages, input elements, buttons, and other components.
