@@ -36,7 +36,9 @@ Dynamically updates the chat display area (#chat-box) with both user and AI mess
 Formats the messages within the chat interface.
 
 Uses marked.js to convert the Markdown received from the AI into HTML for display.
+
 Provides basic UI enhancements, such as automatically adjusting the textarea's height as the user types.
+
 Includes error handling for network requests.
 
 **styles.css (Frontend Styling):
