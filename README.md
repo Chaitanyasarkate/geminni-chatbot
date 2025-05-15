@@ -45,8 +45,11 @@ Includes error handling for network requests.
 **
 
 Defines the visual appearance of the chatbot interface.
+
 Uses a dark color scheme, similar to the ChatGPT interface.
+
 Styles the chat messages, input elements, buttons, and other components.
+
 Implements responsive design elements to ensure proper display on different screen sizes.
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/e7931b89-7d1c-4d19-920b-d8b100812a7a)
