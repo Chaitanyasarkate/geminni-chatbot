@@ -22,6 +22,7 @@ Manages chat history to provide context to the AI.
 
 Includes error handling to gracefully manage potential issues with the AI's responses.
 
+
 **index.html (Frontend Structure):**
 
 Creates the basic layout of the chatbot interface.
