@@ -43,6 +43,7 @@ Uses marked.js to convert the Markdown received from the AI into HTML for displa
 
 Provides basic UI enhancements, such as automatically adjusting the textarea's height as the user types.
 
+
 Includes error handling for network requests.
 
 **styles.css (Frontend Styling):
