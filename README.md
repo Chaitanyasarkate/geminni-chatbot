@@ -13,7 +13,6 @@ Notably, the application is designed to handle Markdown formatting in the AI's r
 Sets up a Flask web application.
 Integrates with the Gemini API to communicate with the AI model.
 
-
 **Defines two routes:
 **
 
