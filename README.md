@@ -14,6 +14,7 @@ Integrates with the Gemini API to communicate with the AI model.
 
 **Defines two routes:
 **
+
 /: Serves the main HTML page (index.html) which provides the user interface.
 
 /chat: Handles user messages sent from the frontend. It sends the message to the Gemini model, receives the AI's response, and sends the response back to the frontend as JSON.
