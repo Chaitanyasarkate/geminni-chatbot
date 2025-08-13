@@ -8,13 +8,11 @@ Notably, the application is designed to handle Markdown formatting in the AI's r
 **Key Components and Functionality**
 
 **app.py (Flask Backend):**
-
 Sets up a Flask web application.
 Integrates with the Gemini API to communicate with the AI model.
 
 **Defines two routes:
 **
-
 /: Serves the main HTML page (index.html) which provides the user interface.
 
 /chat: Handles user messages sent from the frontend. It sends the message to the Gemini model, receives the AI's response, and sends the response back to the frontend as JSON.
@@ -32,7 +30,6 @@ Imports the marked.js library from a CDN to render Markdown.
 
 **script.js (Frontend Logic):
 **
-
 Handles sending user messages to the Flask backend using fetch().
 Dynamically updates the chat display area (#chat-box) with both user and AI messages.
 Formats the messages within the chat interface.
@@ -46,7 +43,6 @@ Includes error handling for network requests.
 
 **styles.css (Frontend Styling):
 **
-
 Defines the visual appearance of the chatbot interface.
 
 Uses a dark color scheme, similar to the ChatGPT interface.
