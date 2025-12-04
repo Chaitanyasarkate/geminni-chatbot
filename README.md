@@ -18,15 +18,18 @@ Integrates with the Gemini API to communicate with the AI model.
 **Defines two routes:
 **
 
+
 /: Serves the main HTML page (index.html) which provides the user interface.
 
 /chat: Handles user messages sent from the frontend. It sends the message to the Gemini model, receives the AI's response, and sends the response back to the frontend as JSON.
+
 
 Manages chat history to provide context to the AI.
 
 Includes error handling to gracefully manage potential issues with the AI's responses.
 
 **index.html (Frontend Structure):**
+
 
 Creates the basic layout of the chatbot interface.
 Includes a chat display area (#chat-box), a user input area (#user-input), and a send button.
@@ -35,6 +38,7 @@ Imports the marked.js library from a CDN to render Markdown.
 
 **script.js (Frontend Logic):
 **
+
 
 Handles sending user messages to the Flask backend using fetch().
 Dynamically updates the chat display area (#chat-box) with both user and AI messages.
