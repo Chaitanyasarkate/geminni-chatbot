@@ -7,17 +7,14 @@ Notably, the application is designed to handle Markdown formatting in the AI's r
 
 **Key Components and Functionality**
 
-
 **app.py (Flask Backend):**
 
 Sets up a Flask web application.
 
 Integrates with the Gemini API to communicate with the AI model.
 
-
 **Defines two routes:
 **
-
 
 /: Serves the main HTML page (index.html) which provides the user interface.
 
