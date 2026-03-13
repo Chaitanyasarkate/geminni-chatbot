@@ -5,12 +5,15 @@ It allows users to send text messages to the AI and receive responses in a chat-
 The application is built using Flask (a Python web framework) for the backend, and HTML, CSS, and JavaScript for the frontend. 
 Notably, the application is designed to handle Markdown formatting in the AI's responses.
 
+
 **Key Components and Functionality**
 
 **app.py (Flask Backend):**
 
+
 Sets up a Flask web application.
 Integrates with the Gemini API to communicate with the AI model.
+
 
 **Defines two routes:
 **
