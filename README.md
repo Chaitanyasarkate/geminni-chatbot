@@ -1,5 +1,6 @@
 **Project Description**
 
+
 This project implements a simple web-based chatbot interface powered by Google's Gemini AI model. 
 It allows users to send text messages to the AI and receive responses in a chat-like format. 
 The application is built using Flask (a Python web framework) for the backend, and HTML, CSS, and JavaScript for the frontend. 
@@ -7,6 +8,7 @@ Notably, the application is designed to handle Markdown formatting in the AI's r
 
 
 **Key Components and Functionality**
+
 
 **app.py (Flask Backend):**
 
@@ -17,6 +19,7 @@ Integrates with the Gemini API to communicate with the AI model.
 
 **Defines two routes:
 **
+
 
 /: Serves the main HTML page (index.html) which provides the user interface.
 
